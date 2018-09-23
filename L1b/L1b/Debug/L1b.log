@@ -1,0 +1,7 @@
+﻿  IFF63_MeskauskasT_L1b.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\tadas\source\repos\l1b\l1b\iff63_meskauskast_l1b.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\tadas\source\repos\l1b\l1b\iff63_meskauskast_l1b.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\tadas\source\repos\l1b\l1b\iff63_meskauskast_l1b.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\tadas\source\repos\l1b\l1b\iff63_meskauskast_l1b.cpp(74): warning C4101: 'gijosNum': unreferenced local variable
+  L1b.vcxproj -> C:\Users\Tadas\source\repos\L1b\Debug\L1b.exe

@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: L1b, Configuration: Debug Win32 ------
+1>L1b.cpp
+1>c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+1>c:\users\tadas\source\repos\l1b\l1b\l1b.cpp(29): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\tadas\source\repos\l1b\l1b\l1b.cpp(48): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\tadas\source\repos\l1b\l1b\l1b.cpp(55): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\tadas\source\repos\l1b\l1b\l1b.cpp(67): warning C4101: 'gijosNum': unreferenced local variable
+1>L1b.vcxproj -> C:\Users\Tadas\source\repos\L1b\Debug\L1b.exe
+1>Done building project "L1b.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

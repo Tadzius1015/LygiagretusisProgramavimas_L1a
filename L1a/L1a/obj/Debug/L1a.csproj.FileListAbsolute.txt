@@ -1,0 +1,6 @@
+C:\Users\Tadas\source\repos\L1a\L1a\bin\Debug\L1a.exe.config
+C:\Users\Tadas\source\repos\L1a\L1a\bin\Debug\L1a.exe
+C:\Users\Tadas\source\repos\L1a\L1a\bin\Debug\L1a.pdb
+C:\Users\Tadas\source\repos\L1a\L1a\obj\Debug\L1a.csproj.CoreCompileInputs.cache
+C:\Users\Tadas\source\repos\L1a\L1a\obj\Debug\L1a.exe
+C:\Users\Tadas\source\repos\L1a\L1a\obj\Debug\L1a.pdb

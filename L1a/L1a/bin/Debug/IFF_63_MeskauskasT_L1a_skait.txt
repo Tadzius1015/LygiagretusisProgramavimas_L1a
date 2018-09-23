@@ -1,0 +1,33 @@
+**Dviraciai1**
+BMX5 5 125.95
+MINERVA 8 199.99
+OST 4 122.22
+VESTA 5 750.55
+FFF 100 99.99
+**Dviraciai2**
+TRR 77 320
+FSA 4 154
+FGH 229 155.55
+SDFG 412 4588.45
+KRT 5 41.2
+**Dviraciai3**
+TRRS 77 320
+FSAasd 4 154
+FGgfgdH 229 155.55
+SDgsdFG 412 4588.45
+KRfdsfsdT 5 41.2
+**Dviraciai4**
+TRfdsR 77 320
+FhjSA 4 154
+FasdGH 229 155.55
+SDgFG 412 4588.45
+bcRT 5 41.2
+**Dviraciai5**
+TfsdRR 77 320
+FfsdSA 4 154
+FGsfdH 229 155.55
+SDsfdFG 412 4588.45
+KRfsdT 5 41.2
+sadasdas 4 55
+dasdasd 7 85.6
+TTASDsa 2 33.9
